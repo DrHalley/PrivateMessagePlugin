@@ -1,0 +1,9 @@
+name: MessagePlugin
+version: '${project.version}'
+main: com.drhalley.messageplugin.MessagePlugin
+api-version: '1.16'
+commands:
+  message:
+  m:
+  reply:
+  r:

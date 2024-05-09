@@ -1,0 +1,9 @@
+name: MessagePlugin
+version: '1.0-SNAPSHOT'
+main: com.drhalley.messageplugin.MessagePlugin
+api-version: '1.16'
+commands:
+  message:
+  m:
+  reply:
+  r:
